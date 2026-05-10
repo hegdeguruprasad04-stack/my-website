@@ -1,0 +1,8 @@
+<div class="card">
+  <h2>Important Questions – Class 10</h2>
+  <p>Most asked exam questions:</p>
+
+  <a href="../downloads/pdfs/Important_Questions_Class10.pdf">
+    Download Important Questions PDF
+  </a>
+</div>

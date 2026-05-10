@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About - Free Study Notes Portal</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>About This Website</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="notes/class10-science.html">Class 10 Science</a>
+  <a href="notes/iit-jee-roadmap.html">IIT-JEE</a>
+  <a href="notes/cheat-sheets.html">Cheat Sheets</a>
+  <a href="notes/programming-basics.html">Programming</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <h2>Free Study Materials</h2>
+    <p>This website provides free notes, PDFs, and cheat sheets for students.</p>
+
+    <a href="downloads/pdfs/Class_10_Science_Notes.pdf">
+      Sample PDF Download
+    </a>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+<div class="card">
+  <h2>HTML, CSS, Python Cheat Sheet</h2>
+  <p>Quick programming reference:</p>
+
+  <a href="../downloads/pdfs/HTML_CSS_Python_CheatSheet.pdf">
+    Download Cheat Sheet PDF
+  </a>
+</div>

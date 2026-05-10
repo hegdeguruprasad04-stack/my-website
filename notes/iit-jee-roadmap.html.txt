@@ -1,0 +1,8 @@
+<div class="card">
+  <h2>IIT-JEE Formula Sheet</h2>
+  <p>Important formulas for quick revision:</p>
+
+  <a href="../downloads/pdfs/IIT_JEE_Formula_Sheet.pdf">
+    Download IIT-JEE Formula Sheet
+  </a>
+</div>

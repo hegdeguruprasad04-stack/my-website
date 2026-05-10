@@ -1,0 +1,9 @@
+<head>
+<link rel="stylesheet" href="../assets/css/style.css"><div class="card">
+  <h2>Class 10 Science Notes</h2>
+  <p>Download complete revision notes:</p>
+
+  <a href="../downloads/pdfs/Class_10_Science_Notes.pdf">
+    Download Class 10 Science PDF
+  </a>
+</div>
